@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![neiluJ's github stats](https://github-readme-stats.vercel.app/api?username=neiluJ&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neiluJ&layout=compact&theme=dracula&hide=javascript)
 
 <!--
